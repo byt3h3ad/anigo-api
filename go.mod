@@ -1,4 +1,4 @@
-module bytehead/anipi
+module bytehead/anigo
 
 go 1.20
 
